@@ -1,0 +1,15 @@
+h1{
+
+color:rgb(255, 187, 0);
+background-color:rgb(1, 13, 1);
+font-family:blue;
+}
+
+p{
+    color:brown;
+    background-color:bisque;
+}
+
+img{
+border: solid black;
+}
